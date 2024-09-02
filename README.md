@@ -49,7 +49,7 @@ The following Python libraries are used for data processing and visualization:
 - **Peak Request Times**: The highest number of trip requests occurs during the evening and morning time slots.
 - **Daywise Trends**: Wednesdays, Fridays, and Mondays are the busiest days, with the highest number of trip requests.
 
-## How to Run the Code
+## How to Run this Code
 1. Clone this repository:
     ```bash
     git clone https://github.com/your-username/uber-data-analysis.git
