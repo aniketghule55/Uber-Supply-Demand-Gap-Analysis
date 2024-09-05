@@ -34,7 +34,7 @@ The following Python libraries are used for data processing and visualization:
 
 ## Analysis and Visualizations
 1. **Trip Status Distribution**:
-    - A pie chart showing the percentage of trips that were completed, cancelled, or had no cars available.
+    - A pie chart showing the percentage of trips that were completed, canceled, or had no cars available.
 2. **Hourly Distribution of Requests**:
     - A histogram showing the distribution of trip requests across different hours of the day.
 3. **Daywise Distribution**:
