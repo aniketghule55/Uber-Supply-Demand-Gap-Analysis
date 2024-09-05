@@ -47,7 +47,7 @@ The following Python libraries are used for data processing and visualization:
 ## Key Insights
 - **Supply-Demand Gap**: A significant supply-demand gap exists, especially at the Airport during peak hours, as indicated by a high percentage of "No Cars Available" statuses.
 - **Peak Request Times**: The highest number of trip requests occurs during the evening and morning time slots.
-- **Daywise Trends**: Wednesdays, Fridays, and Mondays are the busiest days, with the highest number of trip requests.
+- **Daywise Trends**: Wednesdays, Fridays, and Mondays are the busiest days, with the most trip requests.
 
 ## How to Run this Code
 1. Clone this repository:
